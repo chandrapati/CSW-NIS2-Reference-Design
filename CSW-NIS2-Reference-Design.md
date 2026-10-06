@@ -96,7 +96,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -550,18 +550,18 @@ NIS2 overlaps materially with:
 
 - **DORA** — for financial-sector entities, DORA generally applies as
   *lex specialis* over NIS2 for the same control surface (see
-  [DORA runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/DORA/CSW-DORA-Technical-Runbook.md)).
+  [DORA runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/DORA/CSW-DORA-Technical-Runbook.md)).
 - **ISO/IEC 27001:2022** — Annex A controls map closely to Art. 21(2)
-  measures (see [ISO 27001 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md)).
+  measures (see [ISO 27001 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md)).
 - **NIST SP 800-207** — segmentation and continuous-monitoring
   expectations align with the seven ZTA tenets (see
-  [800-207 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md)).
+  [800-207 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md)).
 - **NIST SP 800-53** — for cross-jurisdiction programmes, 800-53
   controls give a useful detailed mapping for Article 21(2)(e), (f),
-  (i) (see [800-53 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md)).
+  (i) (see [800-53 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md)).
 
 
-- **UK NCSC CAF v3.2** — Art. 21(2)(a) and (d) are the reuse path for CAF A2 and A4 in a UK NIS OES or GovAssure assessment (see [CAF crosswalk](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/UK-NCSC-CAF/caf-mapping.md)).
+- **UK NCSC CAF v3.2** — Art. 21(2)(a) and (d) are the reuse path for CAF A2 and A4 in a UK NIS OES or GovAssure assessment (see [CAF crosswalk](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/UK-NCSC-CAF/caf-mapping.md)).
 
 ---
 
@@ -587,4 +587,4 @@ and Member State transposition before formal use.
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
